@@ -8,3 +8,6 @@
 ### Themes & Colors:
 ### Styles:
 ### Device Support:
+### Font size:
+### Endorsement:
+### 
