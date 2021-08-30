@@ -8,6 +8,6 @@
 ### Themes & Colors:
 ### Styles:
 ### Device Support:
-### Font size:
+### Font size: Font preference  is between 12 -14.
 ### Endorsement:
 ### 
