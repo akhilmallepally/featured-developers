@@ -2,10 +2,10 @@
 ## Project Charter:
 ## Project Purpose:
 ## Team Members:
- Amulya Baddam
- Kushal Satya Durgaji Katari
- Sai vivek reddy Tadipathri
- Akhil Kumar Reddy Mallepally
+<br> Amulya Baddam </br>
+ <br>Kushal Satya Durgaji Katari</br>
+ <br>Sai vivek reddy Tadipathri</br>
+ <br>Akhil Kumar Reddy Mallepally</br>
 ## Project Architecture:
 ### Attributes:
 ### Screen Flow:
