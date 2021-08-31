@@ -1,6 +1,9 @@
 # Featured-Developers
 ## Project Charter:
+This is the project charter for Featured Developer. This application will be developed as a web application. 
 ## Project Purpose:
+Its a web application comprise of 28 students enrolled for Graduate Direct project under Dr.Danis case, Determines a level of student attainment, special days.
+cheers and wishes from colleagues and instructors invigorate a student to achieve heights.This engross users to accustom.
 ## Team Members:
 <br> Amulya Baddam </br>
  <br>Kushal Satya Durgaji Katari</br>
