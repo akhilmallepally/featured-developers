@@ -11,8 +11,17 @@ cheers and wishes from colleagues and instructors invigorate a student to achiev
  <br>Akhil Kumar Reddy Mallepally</br>
 ## Project Architecture:
 ### Attributes:
+<br> Student first & last name</br>
+<br> Student email ID</br>
+<br> Student attainments</br>
+<br> Special days</br>
+<br> Cheers & wishes</br>
 ### Screen Flow:
-### Themes & Colors:
+Home Screen: Consists of a header with login button, a footer and a box that displays picture of the student, all the attributes and a button that directs to the person details screen.
+Header menu screen: This screen consists a list off all the students displaying their name and picture.
+Login page: This a admin login page, from where admin gets access to add, remove or update the data.
+Person details screen: This screen displays all the details of the student.
+### Themes & Colors: 
 ### Styles:
 ### Device Support:
 ### Font size: 
