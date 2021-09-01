@@ -26,8 +26,5 @@ Application carries a theme of white for the background and teal for headers, fo
 It is a Progressive Web Application that runs on browser as well as, native on Android and iOS.
 ### Font size: 
 Font preference  is between 12 -14.
-### Endorsement: 
-As well captcha should access to login user.
-Login qualifications like SID,Password,forgot password,captcha and security questions are added if the secret phrase is lost.
-security questions like moms original last name, place of birth,most loved person,first vehicle.
+
 
