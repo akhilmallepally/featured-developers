@@ -4,10 +4,10 @@ This is the project charter for Featured Developer. This application will be dev
 ## Project Purpose:
 Its a web application comprise of 28 students enrolled for Graduate Direct project under Dr.Danis case, it Determines a level of student attainments, their goals, cheers and wishes from their colleagues and instructors, this invigorate a student to achieve heights.As well as, it helps students to know acheivements of other students enrolled in their class and also get familiar with each other.This engross users to accustom.
 ## Team Members:
-<br> Amulya Baddam </br>
- <br>Kushal Satya Durgaji Katari</br>
- <br>Sai vivek reddy Tadipathri</br>
- <br>Akhil Kumar Reddy Mallepally</br>
+ [Amulya Baddam](https://github.com/amulyareddybaddam)
+ [Kushal Satya Durgaji Katari](https://github.com/kushalkatari)
+ [Sai vivek reddy Tadipathri](https://github.com/vivektadiparthi)
+ [Akhil Kumar Reddy Mallepally](https://github.com/akhilmallepally/)
 ## Project Architecture:
 ### Attributes:
 <br> Student first & last name</br>
