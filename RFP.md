@@ -9,12 +9,25 @@ Its a web application comprise of 28 students enrolled for Graduate Direct proje
  [Sai vivek reddy Tadipathri](https://github.com/vivektadiparthi)</br>
  [Akhil Kumar Reddy Mallepally](https://github.com/akhilmallepally/)</br>
 ## Project Architecture:
-### Attributes:
-<br> Student first & last name</br>
-<br> Student email ID</br>
-<br> Student attainments</br>
-<br> Special days</br>
-<br> Cheers & wishes</br>
+
+### Database design:
+#### Entities & Attributes:
+ USERS</br>
+ &nbsp; UserId        ->    Primary Key</br>
+ &nbsp; UserName</br>
+ &nbsp; Password</br>
+ &nbsp; CreatedOn</br>
+
+STUDENT</br>
+  &nbsp; StudentId     ->    Primary Key</br>
+  &nbsp; FirstName</br>
+  &nbsp; LastName</br>
+  &nbsp; image</br>
+  &nbsp; Date</br>
+  &nbsp; Attainment</br>
+  &nbsp; PhoneNumber</br>
+#### Entity-Relationship diagram:
+
 ### Screen Flow:
 <br>Home Screen: Consists of a header with login button, a footer and a box that displays picture of the student, all the attributes and a button that directs to the person details screen.</br>
 <br>Header menu screen: This screen consists a list off all the students displaying their name and picture.</br>
