@@ -35,7 +35,7 @@ Roles to access the app :
 2. Admin
 
 ### Authentication:
-The authenication is only for admin, who has control over the data in the app. The authentication page must consist of the following:
+The authenication is only for admin, who has control over the data in the app. The authentication page must contain the following:
 
 1. *username*, *password* fields
 2. A *Captcha* field to verify it's a real person and not a bot.
