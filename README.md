@@ -8,9 +8,9 @@ Featured developers web application displays the profile of the students from th
  [Akhil Kumar Reddy Mallepally](https://github.com/akhilmallepally/)</br>
 
 ## Client:
-Dr. Denise Case
-Assistant professor, Northwest Missouri State University
-44691-02 Graduate Direct Project
+Dr. Denise Case </br>
+Assistant professor, Northwest Missouri State University </br>
+44691-02 Graduate Direct Project </br>
 
 
 ## Request for Proposal
