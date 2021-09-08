@@ -60,6 +60,9 @@ Roles to access the app :
 Application carries a theme of white for the background and teal for headers, footers, buttons and menues.
 ### Device Support:
 It is a Progressive Web Application that runs on browser as well as, native on Android and iOS.
+### Development Details:
+Team:
+The development team for this project should comprise of a UI designer , Full Stack Engineer , Quality Analyst , Team Lead
 ### Font size: 
 Font preference  is between 12 -14.
 
