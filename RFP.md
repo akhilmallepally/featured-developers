@@ -65,5 +65,10 @@ Team:
 The development team for this project should comprise of a UI designer , Full Stack Engineer , Quality Analyst , Team Lead
 ### Font size: 
 Font preference  is between 12 -14.
+## Bidder Qualifications
+<br>Have the best optimized solution for the project.</br>
+<br>Implement functionality wiyhin time agreed at the contract.</br>
+<br>Must be able to communicate in person & remote, based on situation.</br>
+<br>Development team having a proven record in building web application is a plus.</br>
 
 
