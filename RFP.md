@@ -71,4 +71,7 @@ Font preference  is between 12 -14.
 <br>Must be able to communicate in person & remote, based on situation.</br>
 <br>Development team having a proven record in building web application is a plus.</br>
 
+### Terms and Conditions:
+The entire project should be open-source and licensed under the <b>GNU General License v3.0</b>
+
 
