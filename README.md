@@ -7,5 +7,11 @@ Featured developers web application displays the profile of the students from th
  [Sai vivek reddy Tadipathri](https://github.com/vivektadiparthi)</br>
  [Akhil Kumar Reddy Mallepally](https://github.com/akhilmallepally/)</br>
 
+## Client:
+Dr. Denise Case
+Assistant professor, Northwest Missouri State University
+44691-02 Graduate Direct Project
+
+
 ## Request for Proposal
 Please find the RFP of our project [here](https://github.com/akhilmallepally/featured-developers/blob/main/RFP.md).
