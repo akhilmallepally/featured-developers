@@ -46,6 +46,10 @@ Roles to access the app :
 * User will be able to navigate through the pages and have access to all the displayed content.
 
 * Admin will have access to create, update and delete the data along with the user privileges.
+### Technology Stack:
+<br>Frontend : React.Js , Bootstrap</br>
+<br>Backend: NodeJS</br>
+<br>Database : MySQL</br>
 
 ### Screen Flow:
 <br>Home Screen: Consists of a header with login button, a footer and a box that displays picture of the student, all the attributes and a button that directs to the person details screen.</br>
