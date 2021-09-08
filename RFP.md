@@ -30,11 +30,7 @@ STUDENT</br>
 
 ## Functional Requirements
 
-Roles to access the app : 
-1. User
-2. Admin
-
-### Authentication:
+### Authentication page:
 The authenication is only for admin, who has control over the data in the app. The authentication page must contain the following:
 
 1. <b>*username*, *password*</b> fields
@@ -43,6 +39,13 @@ The authenication is only for admin, who has control over the data in the app. T
 4. If the details entered are <b>correct</b>, the page is redirected to <b>admin panel</b>.
 5. If the details entered are <b>incorrect</b>, an error message is displayed stating <b>"Invalid credentials. Please contact the administrator"</b>
 
+Roles to access the app : 
+1. User
+2. Admin
+
+* User will be able to navigate through the pages and have access to all the displayed content.
+
+* Admin will have access to create, update and delete the data along with the user privileges.
 
 ### Screen Flow:
 <br>Home Screen: Consists of a header with login button, a footer and a box that displays picture of the student, all the attributes and a button that directs to the person details screen.</br>
