@@ -28,6 +28,22 @@ STUDENT</br>
   &nbsp; PhoneNumber</br>
 #### Entity-Relationship diagram:
 
+## Functional Requirements
+
+Roles to access the app : 
+1. User
+2. Admin
+
+### Authentication:
+The authenication is only for admin, who has control over the data in the app. The authentication page must consist of the following:
+
+1. *username*, *password* fields
+2. A *Captcha* field to verify it's a real person and not a bot.
+3. A *submit* button to validate the credentials provided by the admin.
+4. If the details entered are correct, the page is redirected to admin panel.
+5. If the details entered are incorrect, an error message is displayed stating "Invalid credentials. Please contact the administrator"
+
+
 ### Screen Flow:
 <br>Home Screen: Consists of a header with login button, a footer and a box that displays picture of the student, all the attributes and a button that directs to the person details screen.</br>
 <br>Header menu screen: This screen consists a list off all the students displaying their name and picture.</br>
