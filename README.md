@@ -1,5 +1,5 @@
 # Featured-Developers
-Featured developers web application displays the profile of the students from the class of 28, in GDP1, randomly on special days and the colleagues can hit like on one's accomplishment. We have a details button beneath the profile, which upon clicking gives the information about the randomly displayed student.
+Featured developers web application displays the profile of a student from the class of 28, in GDP1, randomly every day.
 
 ## Team:
  [Amulya Baddam](https://github.com/amulyareddybaddam)</br>
