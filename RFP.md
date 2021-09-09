@@ -2,7 +2,7 @@
 ## Project Charter:
 This is the project charter for Featured Developer. This application will be developed as a web application. 
 ## Project Purpose:
-Its a web application comprise of 28 students enrolled for Graduate Direct project under Dr.Danis case, it Determines a level of student attainments, their goals, cheers and wishes from their colleagues and instructors, this invigorate a student to achieve heights.As well as, it helps students to know acheivements of other students enrolled in their class and also get familiar with each other.This engross users to accustom.
+Its a web application comprise of 28 students enrolled for Graduate Direct project under Dr. Denise Case, it Determines a level of student attainments, their goals, cheers and wishes from their colleagues and instructors, this invigorate a student to achieve heights.As well as, it helps students to know acheivements of other students enrolled in their class and also get familiar with each other.This engross users to accustom.
 ## Team Members:
  [Amulya Baddam](https://github.com/amulyareddybaddam)</br>
  [Kushal Satya Durgaji Katari](https://github.com/kushalkatari)</br>
