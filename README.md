@@ -2,15 +2,15 @@
 Featured developers web application displays the profile of a student from the class of 28, in GDP1, randomly every day.
 
 ## Team:
- [Amulya Baddam](https://github.com/amulyareddybaddam)</br>
- [Kushal Satya Durgaji Katari](https://github.com/kushalkatari)</br>
- [Sai vivek reddy Tadipathri](https://github.com/vivektadiparthi)</br>
- [Akhil Kumar Reddy Mallepally](https://github.com/akhilmallepally/)</br>
+ [Amulya Baddam](https://github.com/amulyareddybaddam)  
+ [Kushal Satya Durgaji Katari](https://github.com/kushalkatari)  
+ [Sai vivek reddy Tadipathri](https://github.com/vivektadiparthi)  
+ [Akhil Kumar Reddy Mallepally](https://github.com/akhilmallepally/)  
 
 ## Client:
-Dr. Denise Case </br>
-Assistant professor, Northwest Missouri State University </br>
-44691-02 Graduate Direct Project </br>
+Dr. Denise Case  
+Assistant professor, Northwest Missouri State University  
+44691-02 Graduate Direct Project  
 
 
 ## Request for Proposal
