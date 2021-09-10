@@ -24,10 +24,10 @@ STUDENT</br>
   &nbsp; LastName   
   &nbsp; image   
   &nbsp; Date of Birth  
-  &nbsp; Attainment 
-  &nbsp; Goals
-  &nbsp; email ID
-  &nbsp; PhoneNumber    
+  &nbsp; Attainment   
+  &nbsp; Goals   
+  &nbsp; email ID   
+  &nbsp; PhoneNumber       
 #### Entity-Relationship diagram:
 ![erd](images/erd.png)
 ## Functional Requirements
@@ -56,7 +56,7 @@ Database : MySQL
 ### Screen Flow:
 Home Screen: Consists of a header with login button, a footer and a box that displays picture of the student, all the attributes and a button that directs to the person details screen.    
 Header menu screen: This screen consists a list off all the students displaying their name and picture.   
-Login page: This a admin login page, from where admin gets access to add, remove or update the data.   
+Login page: This a admin login page, from where the admin gets access to add, remove or update the data.   
 Person details screen: This screen displays all the details of the student.   
 ### Themes & Colors: 
 Application carries a theme of white for the background and teal for headers, footers, buttons and menues.
@@ -64,20 +64,20 @@ Application carries a theme of white for the background and teal for headers, fo
 It is a Progressive Web Application that runs on browser as well as, native on Android and iOS.
 ### Development Details:
 Team:
-The development team for this project should comprise of a UI designer , Full Stack Engineer , Quality Analyst , Team Lead
+The development team for this project should comprise of a UI designer , Full Stack Engineer , Quality Analyst , Team Lead.
 ### Font size: 
 Font preference  is between 12 -14.
 ## Bidder Qualifications
 Have the best optimized solution for the project.   
-Implement functionality wiyhin time agreed at the contract.   
-Must be able to communicate in person & remote, based on situation.    
+Implement functionality within time agreed at the contract.   
+Must be able to communicate in person & remote, based on the situation.    
 Development team having a proven record in building web application is a plus.   
 
 ## Schedule Duration
 | Duration | Task |
 | -------- | ---- |
-| 08/18/21 - 12/05/21 | Gathering requirements, designing templates, approvals. |
-| 01/12/22 - 04/15/22 | Product development, Release |
+| 09/15/21 - 10/05/21 | Gathering requirements, designing templates, approvals. |
+| 10/06/22 - 11/30/22 | Product development, Release |
 
 
 ### Terms and Conditions:
