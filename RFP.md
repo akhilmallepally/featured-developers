@@ -47,15 +47,15 @@ Roles to access the app :
 
 * Admin will have access to create, update and delete the data along with the user privileges.
 ### Technology Stack:
-<br>Frontend : React.Js , Bootstrap   
-<br>Backend: NodeJS   
-<br>Database : MySQL   
+Frontend : React.Js , Bootstrap   
+Backend: NodeJS   
+Database : MySQL   
 
 ### Screen Flow:
-<br>Home Screen: Consists of a header with login button, a footer and a box that displays picture of the student, all the attributes and a button that directs to the person details screen.    
-<br>Header menu screen: This screen consists a list off all the students displaying their name and picture.   
-<br>Login page: This a admin login page, from where admin gets access to add, remove or update the data.   
-<br>Person details screen: This screen displays all the details of the student.   
+Home Screen: Consists of a header with login button, a footer and a box that displays picture of the student, all the attributes and a button that directs to the person details screen.    
+Header menu screen: This screen consists a list off all the students displaying their name and picture.   
+Login page: This a admin login page, from where admin gets access to add, remove or update the data.   
+Person details screen: This screen displays all the details of the student.   
 ### Themes & Colors: 
 Application carries a theme of white for the background and teal for headers, footers, buttons and menues.
 ### Device Support:
@@ -66,10 +66,17 @@ The development team for this project should comprise of a UI designer , Full St
 ### Font size: 
 Font preference  is between 12 -14.
 ## Bidder Qualifications
-<br>Have the best optimized solution for the project.   
-<br>Implement functionality wiyhin time agreed at the contract.   
-<br>Must be able to communicate in person & remote, based on situation.   
-<br>Development team having a proven record in building web application is a plus.   
+Have the best optimized solution for the project.   
+Implement functionality wiyhin time agreed at the contract.   
+Must be able to communicate in person & remote, based on situation.    
+Development team having a proven record in building web application is a plus.   
+
+## Schedule Duration
+| Duration | Task |
+| -------- | ---- |
+| 08/18/21 - 12/05/21 | Gathering requirements, designing templates, approvals. |
+| 01/12/22 - 04/15/22 | Product development, Release |
+
 
 ### Terms and Conditions:
 The entire project should be open-source and licensed under the <b>GNU General License v3.0    
