@@ -29,7 +29,7 @@ STUDENT</br>
   &nbsp; email ID   
   &nbsp; PhoneNumber       
 #### Entity-Relationship diagram:
-![erd](images/erd.png)
+![erd](/erd.png)
 ## Functional Requirements
 
 ### Authentication page:
@@ -77,7 +77,7 @@ Development team having a proven record in building web application is a plus.
 | Duration | Task |
 | -------- | ---- |
 | 09/15/21 - 10/05/21 | Gathering requirements, designing templates, approvals. |
-| 10/06/22 - 11/30/22 | Product development, Release |
+| 10/06/21 - 11/30/21 | Product development, Release |
 
 
 ### Terms and Conditions:
