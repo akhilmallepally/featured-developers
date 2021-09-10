@@ -29,7 +29,7 @@ STUDENT</br>
   &nbsp; email ID   
   &nbsp; PhoneNumber       
 #### Entity-Relationship diagram:
-![erd](erd.png)
+![erd](images/erd.png)
 ## Functional Requirements
 
 ### Authentication page:
@@ -59,9 +59,9 @@ Header menu screen: This screen consists a list off all the students displaying 
 Login page: This a admin login page, from where the admin gets access to add, remove or update the data.   
 
 ### Screen Layouts:
-![HomeScreen](/Homescreen.jpg)   
-![LoginScreen](/Loginscreen.jpg)   
-![MenuScreen](/Menuscreen.jpg)   
+![HomeScreen](images/Homescreen.jpg)   
+![LoginScreen](images/Loginscreen.jpg)   
+![MenuScreen](images/Menuscreen.jpg)   
 ### Themes & Colors: 
 Application carries a theme of white for the background and teal for headers, footers, buttons and menues.
 ### Device Support:
