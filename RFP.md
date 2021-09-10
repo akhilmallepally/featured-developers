@@ -59,9 +59,9 @@ Header menu screen: This screen consists a list off all the students displaying 
 Login page: This a admin login page, from where the admin gets access to add, remove or update the data.   
 
 ### Screen Layouts:
-![HomeScreen](HomeScreen.png)   
-![LoginScreen](LoginScreen.png)   
-![MenuScreen](MenuScreen.png)   
+![HomeScreen](/Homescreen.jpg)   
+![LoginScreen](/Loginscreen.jpg)   
+![MenuScreen](/Menuscreen.jpg)   
 ### Themes & Colors: 
 Application carries a theme of white for the background and teal for headers, footers, buttons and menues.
 ### Device Support:
