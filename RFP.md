@@ -2,7 +2,7 @@
 ## Project Charter:
 This is the project charter for Featured Developer. This application will be developed as a progressive web application. 
 ## Project Purpose:
-Its a web application comprise of 28 students enrolled for Graduate Direct project under Dr. Denise Case and it displays the picture along with details of one random student on the home screen everyday. It Determines the level of student attainments, their goals, cheers and wishes from their colleagues and instructors, this invigorate a student to achieve heights.As well as, it helps students to know acheivements of other students enrolled in their class and get familiar with each other.This engross users to accustom.
+A progressive web application that comprise 28 students data, enrolled into Graduate Direct project, supervised under Dr. Denise Case. This app displays the picture along with details of one student on the home screen everyday, randomly. It determines the level of student attainments, their goals, which invigorate a student to achieve heights. As well as, this helps students to know acheivements of other students enrolled in their class and get familiar with each other.
 ## Team Members:
  [Amulya Baddam](https://github.com/amulyareddybaddam)   
  [Kushal Satya Durgaji Katari](https://github.com/kushalkatari)   
