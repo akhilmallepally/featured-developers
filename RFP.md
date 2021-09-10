@@ -27,7 +27,7 @@ STUDENT</br>
   &nbsp; Attainment    
   &nbsp; PhoneNumber    
 #### Entity-Relationship diagram:
-
+![erd](images/erd.png)
 ## Functional Requirements
 
 ### Authentication page:
