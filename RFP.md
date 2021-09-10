@@ -54,10 +54,10 @@ Backend: NodeJS
 Database : MySQL   
 
 ### Screen Flow:
-Home Screen: Consists of a header with login button, a footer and a box that displays picture of the student, all the attributes and a button that directs to the person details screen.    
+Home Screen: Consists of a header with login button, a footer and a box that displays picture of the student and all the attribute.
 Header menu screen: This screen consists a list off all the students displaying their name and picture.   
 Login page: This a admin login page, from where the admin gets access to add, remove or update the data.   
-Person details screen: This screen displays all the details of the student.   
+ 
 ### Themes & Colors: 
 Application carries a theme of white for the background and teal for headers, footers, buttons and menues.
 ### Device Support:
