@@ -23,8 +23,10 @@ STUDENT</br>
   &nbsp; FirstName   
   &nbsp; LastName   
   &nbsp; image   
-  &nbsp; Date   
-  &nbsp; Attainment    
+  &nbsp; Date of Birth  
+  &nbsp; Attainment 
+  &nbsp; Goals
+  &nbsp; email ID
   &nbsp; PhoneNumber    
 #### Entity-Relationship diagram:
 ![erd](images/erd.png)
