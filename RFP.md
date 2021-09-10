@@ -29,7 +29,7 @@ STUDENT</br>
   &nbsp; email ID   
   &nbsp; PhoneNumber       
 #### Entity-Relationship diagram:
-![erd](/erd.png)
+![erd](erd.png)
 ## Functional Requirements
 
 ### Authentication page:
